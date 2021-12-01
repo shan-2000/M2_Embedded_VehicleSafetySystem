@@ -39,7 +39,7 @@ crash mitigation system is used here. A collision avoidance system (CAS), also k
 
 ## How:
 
-**TBD**
+    This system can be implemented in every car by fixing the ultrasonic sensors around the car and monitor the sensor boundary. If the boundary gets distrubed the. The system will give alert.
 
 # Detail requirements
 ## High Level Requirements:
@@ -47,7 +47,7 @@ crash mitigation system is used here. A collision avoidance system (CAS), also k
 
 | ID    | Description                             | Status              | 
 |-------|-----------------------------------------|---------------------|
-| HLR01 | Fire Sensor                             |Future          |
+| HLR01 | Ultrasonic Sensor                             |Future          |
 | HLR01 |Parking Sensor                |Future          |
 | HLR03 |Ultrasonic Sensor                             |Future          |
 | HLR04 |Alcohol sensor                                     |Future          |
