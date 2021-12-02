@@ -12,8 +12,11 @@ crash mitigation system is used here. A collision avoidance system (CAS), also k
 ![Description](Link to Pic)
 -- Content 
 ## Cost and Features and Timeline
-![Description](Link to Pic)
--- Content 
+![CFT](https://user-images.githubusercontent.com/45603597/144423409-d6bdc64c-f1e3-4532-a05e-51e082d1a2d4.png)
+
+I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeline) where, X axis represents cost in 100 RS per unit, Y axis represents Features in points per unit, Z axis represents time in days per unit.
+
+
 ## Defining Our System
     Safety alert system for vehicle
 ## SWOT ANALYSIS
@@ -48,14 +51,17 @@ crash mitigation system is used here. A collision avoidance system (CAS), also k
 
 | ID    | Description                             | Status              | 
 |-------|-----------------------------------------|---------------------|
-| HLR01 | Ultrasonic Sensor                             |Future          |
-| HLR01 |Parking Sensor                |Future          |
-| HLR03 |Ultrasonic Sensor                             |Future          |
-| HLR04 |Alcohol sensor                                     |Future          |
-| HLR05 | Speed sensor                         |Future          |
-| HLR06 | Speed limiting                                |Future          |
+| HLR01 | Ultrasonic Sensor                       |Implemented          |
+| HLR02 |Potentiometer                            |Implemented          |
+
+
 
 
 ##  Low level Requirements:
 --- TBD in Tabular Format 
 -- ID | Description | Status (Implemented/Future)
+
+| ID    | Description                             | Status              | 
+|-------|-----------------------------------------|---------------------|
+| LLR01 |Ultrasonic Sensor - If the Ultrasonic senses the vehicle slows down   |Implemented          |
+| LLR2  |Potentiometer- through ADC the decimal value is got and these decimal value is used to control the speed of motor|Implemented          |
