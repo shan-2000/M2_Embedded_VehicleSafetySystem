@@ -16,37 +16,37 @@ crash mitigation system is used here. A collision avoidance system (CAS), also k
 
 I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeline) where, X axis represents cost in 100 RS per unit, Y axis represents Features in points per unit, Z axis represents time in days per unit.
 
-
 ## Defining Our System
     Safety alert system for vehicle
 ## SWOT ANALYSIS
 
 ![SWOT](https://user-images.githubusercontent.com/45603597/144420855-15dbfe10-8b10-471c-b70d-5cfa594ee6f1.png)
 
-# 4W&#39;s and 1&#39;H
+# 4W and 1H
 
-## Who:
+## Who
 
     The people who have car can use this safety system. This system can be employed in the "Driving school" while the students learning to drive the car in real time. 
 
-## What:
+## What
 
     This vehicle safety system alerts the driver by giving both light and sound signal if any other obstacles comes near to the car. The alerting radius of the car can be modifiable.
 
-## When:
+## When
 
     This system can be used when there is a need to follow more safety.
 
-## Where:
+## Where
 
     This system can be used in school areas and in campus for extra safety.
 
-## How:
+## How
 
     This system can be implemented in every car by fixing the ultrasonic sensors around the car and monitor the sensor boundary. If the boundary gets distrubed the. The system will give alert.
 
 # Detail requirements
  
+##  High level Requirements
 
 | ID    | Description                             | Status              | 
 |-------|-----------------------------------------|---------------------|
@@ -56,7 +56,7 @@ I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeli
 
 
 
-##  Low level Requirements:
+##  Low level Requirements
 
 
 | ID    | Description                             | Status              | 
