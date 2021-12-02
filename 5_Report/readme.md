@@ -1,8 +1,6 @@
 ## Vehicle Safety System
 
-## Vehicle Safety System
-
-# Report
+# Requirements
 ## Introduction
    As we are human we need to act upon the cause and consequence. A car is a massive machine with around 30 thousand parts and it produces enormous output power. In case of cause, car is accelerating which increases the speed. Too much of speed may end up in accident or uncontrollable situation. To monitor the real time performance of the car the Console is used. If an error occurs in a car control system it is tedious process to diagnose where the error occured. On considering the mentioned points it is must to use a console in a car. There are two types of vehicle safety system they are, 
 * crash mitigation system
@@ -24,7 +22,7 @@ I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeli
 
 ![SWOT](https://user-images.githubusercontent.com/45603597/144420855-15dbfe10-8b10-471c-b70d-5cfa594ee6f1.png)
 
-# 4W and 1H
+## 4W and 1H
 
 ## Who
 
@@ -47,7 +45,6 @@ I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeli
     This system can be implemented in every car by fixing the ultrasonic sensors around the car and monitor the sensor boundary. If the boundary gets distrubed the. The system will give alert.
 
 # Detail requirements
- 
 ##  High level Requirements
 
 | ID    | Description                             | Status              | 
@@ -55,9 +52,7 @@ I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeli
 | HLR01 | Ultrasonic Sensor                       |Implemented          |
 | HLR02 |Potentiometer                            |Implemented          |
 
-
 ##  Low level Requirements
-
 
 | ID    | Description                             | Status              | 
 |-------|-----------------------------------------|---------------------|
@@ -70,7 +65,7 @@ I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeli
 
 ![HighLevelDiagram](https://user-images.githubusercontent.com/45603597/144247047-9123c785-8cc1-4c81-9626-013bb02536e8.png)
 
-# Class diagram
+## Class diagram
 
 
 ![LowLevelDiagram](https://user-images.githubusercontent.com/45603597/144247162-615bed5e-6cc7-471f-9960-9375229a6216.png)
