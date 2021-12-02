@@ -17,7 +17,8 @@ crash mitigation system is used here. A collision avoidance system (CAS), also k
 ## Defining Our System
     Safety alert system for vehicle
 ## SWOT ANALYSIS
-![SWOT-Sample](Link to Pic)
+
+![SWOT](https://user-images.githubusercontent.com/45603597/144420855-15dbfe10-8b10-471c-b70d-5cfa594ee6f1.png)
 
 # 4W&#39;s and 1&#39;H
 
