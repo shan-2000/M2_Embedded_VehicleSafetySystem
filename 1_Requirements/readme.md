@@ -46,8 +46,7 @@ I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeli
     This system can be implemented in every car by fixing the ultrasonic sensors around the car and monitor the sensor boundary. If the boundary gets distrubed the. The system will give alert.
 
 # Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
+ 
 
 | ID    | Description                             | Status              | 
 |-------|-----------------------------------------|---------------------|
@@ -58,8 +57,7 @@ I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeli
 
 
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+
 
 | ID    | Description                             | Status              | 
 |-------|-----------------------------------------|---------------------|
