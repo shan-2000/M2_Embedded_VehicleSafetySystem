@@ -1,17 +1,22 @@
 /**
  * @file adc.h
- * @author Bharath G (Bharath.g@ltts.com)
+ * @author Shanmugavadivel A
  * @brief Functions to handle ADC peripheral
  * @version 0.1
- * @date 2021-11-29
+ * @date 2021-12-02
  * 
- * @copyright Copyright (c) 2021
+ *
  * 
  */
 #ifndef ADC_H_
 #define ADC_H_
+#ifndef __AVR_ATmega328__
+    #define __AVR_ATmega328__
+#endif
 
-#include "project_config.h"
+#include<avr/io.h>
+#include<util/delay.h>
+
 
 /**
  * @brief Function to initialise the analog to digital converter (ADC)

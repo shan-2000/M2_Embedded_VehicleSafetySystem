@@ -1,4 +1,9 @@
+#ifndef __AVR_ATmega328__
+    #define __AVR_ATmega328__
+#endif
 #include "adc.h"
+#include<avr/io.h>
+#include<util/delay.h>
 
 void InitADC()
 {
