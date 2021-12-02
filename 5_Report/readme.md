@@ -59,9 +59,9 @@ I have attached the link to the 3 Dimentional graph of CFT(cost, Feature, Timeli
 | LLR01 |Ultrasonic Sensor - If the Ultrasonic senses the vehicle slows down   |Implemented          |
 | LLR2  |Potentiometer- through ADC the decimal value is got and these decimal value is used to control the speed of motor|Implemented          |
 
-## Design
+# Design
 
-# Flowchart
+## Flowchart
 
 ![HighLevelDiagram](https://user-images.githubusercontent.com/45603597/144247047-9123c785-8cc1-4c81-9626-013bb02536e8.png)
 
