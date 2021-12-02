@@ -1,6 +1,6 @@
 ## Design
 
-## High Level Diagram
+# Flowchart
 
 ![HighLevelDiagram](https://user-images.githubusercontent.com/45603597/144247047-9123c785-8cc1-4c81-9626-013bb02536e8.png)
 
