@@ -9,8 +9,8 @@
 crash mitigation system is used here. A collision avoidance system (CAS), also known as a pre-crash system, forward collision warning system, or collision mitigation system, is an advanced driver-assistance system designed to prevent or reduce the severity of a collision. Here, the ultrasonic sensor is used to identify the the distance between the driver's car and other car. If the ultrasonic sensor gets activated the control system shows error message then the driver can stop the vehicle or slows down the vehicle. 
 
 ## Research
-![Description](Link to Pic)
--- Content 
+![image](https://user-images.githubusercontent.com/45603597/144423677-ce353581-9b52-4b2d-b0c4-7e765f17f636.png)
+ 
 ## Cost and Features and Timeline
 ![CFT](https://user-images.githubusercontent.com/45603597/144423409-d6bdc64c-f1e3-4532-a05e-51e082d1a2d4.png)
 
