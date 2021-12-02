@@ -18,7 +18,7 @@ int main(void)
         _delay_ms(200);
     }
     
-    if (ADCH >=00000001)
+    if (temp >=00000001)
     {
     // TCCR0A |= (1<<COM0A0) | (1<<WGM00) | (1<<WGM01);
     // TCCR0B |= (1<<CS00) | (1<<CS01); //64 prescalar
