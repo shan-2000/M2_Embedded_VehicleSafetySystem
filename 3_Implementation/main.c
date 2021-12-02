@@ -6,7 +6,6 @@
 #include<util/delay.h>
 #include "adc.h"
 
-
 int main(void)
 {
     TCCR0A |= (1<<COM0A0) | (1<<WGM00) | (1<<WGM01);
@@ -23,8 +22,6 @@ int main(void)
     {
     // TCCR0A |= (1<<COM0A0) | (1<<WGM00) | (1<<WGM01);
     // TCCR0B |= (1<<CS00) | (1<<CS01); //64 prescalar
-
-
  //   TCCR0B |= (1<<CS01); // 8
 //for motor set prescalar value of 64 or 256
     DDRD |=(1<<PD6);

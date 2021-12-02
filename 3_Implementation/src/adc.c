@@ -14,8 +14,6 @@ void InitADC()
    
 }
 
-
-
 uint16_t ReadADC(uint8_t ch)
 {
      /*Select ADC Channel: must be 0-7*/
