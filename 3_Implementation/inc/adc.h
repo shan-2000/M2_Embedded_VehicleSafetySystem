@@ -17,7 +17,6 @@
 #include<avr/io.h>
 #include<util/delay.h>
 
-
 /**
  * @brief Function to initialise the analog to digital converter (ADC)
  * 
